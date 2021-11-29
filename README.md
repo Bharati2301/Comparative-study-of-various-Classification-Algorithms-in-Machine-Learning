@@ -1,1 +1,1 @@
-# Comparative-study-of-various-Machine-Learning-Classification-Algorithms
+# Comparative-study-of-various-Classification-Algorithms-in-Machine-Learning
