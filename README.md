@@ -11,9 +11,9 @@
 * There is a bias-variance trade-off associated with the choice of k in k-fold cross-validation. Typically, given these considerations, one performs k-fold cross-validation using k = 5 or k = 10, as these values yield test error rate estimates that suffer neither from excessively high bias nor from very high variance.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/71218441/154526157-4c8e3bc3-0d1f-44fb-ae2d-b20bb82981a5.png" width="450" height="250"/>
+  <img src="https://user-images.githubusercontent.com/71218441/154526157-4c8e3bc3-0d1f-44fb-ae2d-b20bb82981a5.png" width="550" height="250"/>
   <img src="https://user-images.githubusercontent.com/71218441/154526186-1115c6b2-25d0-46eb-bc54-43c9de7110cf.png" width="650" height="350"/>
-  <img src="https://user-images.githubusercontent.com/71218441/154526224-36037ddc-6a8f-4275-af5b-faabd424a410.png" width="450" height="250"/>
+  <img src="https://user-images.githubusercontent.com/71218441/154526224-36037ddc-6a8f-4275-af5b-faabd424a410.png" width="450" height="200"/>
 </p>
 
 ## CONCLUSION
