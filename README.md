@@ -12,11 +12,8 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71218441/154526157-4c8e3bc3-0d1f-44fb-ae2d-b20bb82981a5.png" width="450" height="250"/>
-  <img src="https://user-images.githubusercontent.com/71218441/154526224-36037ddc-6a8f-4275-af5b-faabd424a410.png" width="450" height="250"/>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/71218441/154526186-1115c6b2-25d0-46eb-bc54-43c9de7110cf.png" width="650" height="350"/>
+  <img src="https://user-images.githubusercontent.com/71218441/154526224-36037ddc-6a8f-4275-af5b-faabd424a410.png" width="450" height="250"/>
 </p>
 
 ## CONCLUSION
